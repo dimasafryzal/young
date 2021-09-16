@@ -1,2 +1,2 @@
 # young
-ini akun young clonung
+ini akun young cloning
