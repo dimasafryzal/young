@@ -1,0 +1,27 @@
+#table-siswa{
+    border-collapse: collapse;
+    background-image: url(puterputer.jpeg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    border-width: 1px;
+    border-style: solid;
+    border-color: midnightblue;
+    margin: auto;
+
+}
+.good {
+    color: rgb(134, 82, 39);
+    text-decoration-style: solid;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#table-siswa h3 {
+    font-size: 32px;
+}
+    body{
+        background: slategrey;
+    }
+#table-siswa td {
+    padding: 20px;
+}
